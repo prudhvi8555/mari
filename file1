@@ -1,2 +1,23 @@
 984802234rfbh
 09w8849r0
+pipeline {
+  agent any
+  stage('clone'){
+  steps{
+    gitngbkbkhbkhhbhhj 'fchgvhg'
+   }
+  } 
+ }
+}
+}
+DOCKER
+FROM nginx
+RUN apt update
+CMD mkdir prudhvi
+
+123123123
+
+
+
+
+
